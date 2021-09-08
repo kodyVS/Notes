@@ -46,7 +46,14 @@
 `docker-compose top` will show all the processes of each container that are running
 `docker-compose ps` will show all the docker-compose containers running
 
-
+## Docker swarm
+`docker swarm init` will enable swarm in docker
+`docker swarm join-token ${ROLE}` will show the token/command required for a new node to join the swarm with the specific role
+`docker network create --driver overlay mydrupal` the key (--driver overlay) creates a network that is for the swarm group. This creates a network that is similiar to a subnet network, and will use the container names as the IP addresses. 
+`docker service create ${IMAGE}` will start a node with a container from the specified image
+`docker service ls` will list the services running.
+`docker service ps ${SERVICE_NAME}` will list the process happening for the services
+`docker service update ${SERVICE NAME} --replicas 3` will create 3 replicas of that service. docker service update has lots of options since it can live update the container reliably. 
 
 # Resources
 [dockerhub](https://www.hub.docker.com) - main page for all docker related things

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Docker/Section 7 Swarm Intro and Creating a 3-Node Swarm Cluster.md",
+            "file": "Courses/Docker/Section 8 Swarm Basic Features and How to Use Them In Your Workflow.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DOCKERTIP",
+                "query": "\"--publish 8080:80\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Docker/Section 7 Swarm Intro and Creating a 3-Node Swarm Cluster.md",
+                "file": "Courses/Docker/Section 8 Swarm Basic Features and How to Use Them In Your Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "dc81d5fdf40a598e",
   "lastOpenFiles": [
+    "Courses/Docker/Section 8 Swarm Basic Features and How to Use Them In Your Workflow.md",
+    "Courses/Docker/Key Commands and Resources.md",
+    "Courses/Docker/Section 3 Creating and Using Containers like a boss.md",
     "Courses/Docker/Section 7 Swarm Intro and Creating a 3-Node Swarm Cluster.md",
     "Courses/Docker/Untitled.md",
     "Courses/Docker/Section 6 Docker Compose The Multi-Container tool.md",
+    "Programming Resources/CSS/Definitions.md",
     "Courses/Docker/Section 4 Container Images, Where To Find Them and How To Build Them.md",
     "Programming Resources/Figma.md",
-    "Courses/Advanced css course/Course Notes/6. Advanced Responsive Design (part 3).md",
-    "Courses/Advanced css course/Course Notes/2. Natours Project — Setup and First Steps (Part 1).md",
-    "Courses/Docker/Key Commands and Resources.md",
-    "Courses/Docker/Section 3 Creating and Using Containers like a boss.md",
-    "Courses/Docker/Section 5 Container lifetime & Persistent Data.md"
+    "Courses/Advanced css course/Course Notes/6. Advanced Responsive Design (part 3).md"
   ]
 }
