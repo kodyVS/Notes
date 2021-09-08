@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "9bdb048b9088d981",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc81d5fdf40a598e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Courses/Docker/Section 7 Swarm Intro and Creating a 3-Node Swarm Cluster.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5cca85af6e42526",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae545e4cb3885313",
+        "type": "tabs",
+        "dimension": 59.48717948717949,
+        "children": [
+          {
+            "id": "2817482af733141b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b0da052cecf5d66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#DOCKERTIP",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "44f3bfb81a6c99e4",
+        "type": "tabs",
+        "dimension": 40.51282051282051,
+        "children": [
+          {
+            "id": "277b7017cca22e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUCKOO.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.51219177246094
+  },
+  "right": {
+    "id": "fd5945245e6299ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8edd32e628a140b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a51dfb108e8a8f08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Courses/Docker/Section 7 Swarm Intro and Creating a 3-Node Swarm Cluster.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dc81d5fdf40a598e",
+  "lastOpenFiles": [
+    "Courses/Docker/Section 7 Swarm Intro and Creating a 3-Node Swarm Cluster.md",
+    "Courses/Docker/Untitled.md",
+    "Courses/Docker/Section 6 Docker Compose The Multi-Container tool.md",
+    "Courses/Docker/Section 4 Container Images, Where To Find Them and How To Build Them.md",
+    "Programming Resources/Figma.md",
+    "Courses/Advanced css course/Course Notes/6. Advanced Responsive Design (part 3).md",
+    "Courses/Advanced css course/Course Notes/2. Natours Project — Setup and First Steps (Part 1).md",
+    "Courses/Docker/Key Commands and Resources.md",
+    "Courses/Docker/Section 3 Creating and Using Containers like a boss.md",
+    "Courses/Docker/Section 5 Container lifetime & Persistent Data.md"
+  ]
+}

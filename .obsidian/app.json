@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "fileSortOrder": "alphabetical",
+  "attachmentFolderPath": "./Assets",
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 96
+  }
+}
